@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+create+value+from+data+and+accountable+for+complete,+correct,+and+timely+financial+reporting.)](https://git.io/typing-svg)
+<!--Computer+science+student-->
 <!--
 **gleb4uk22/gleb4uk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
