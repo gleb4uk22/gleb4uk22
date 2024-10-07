@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+create+value+from+data)](https://git.io/typing-svg)
 
-🔭 I'm currently working on my own startup, designed to solve procurement problems for various business areas.
+🔭 I'm currently working on my own startup, designed to solve procurement problems for various business areas by using data value approach.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
