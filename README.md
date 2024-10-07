@@ -21,8 +21,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="40" height="40"/> 
   </a> 
-
-
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -41,7 +39,11 @@
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
+</p
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gleb4uk22&theme=dark" alt="gleb4uk22" />
+</p>
 <!--
 **gleb4uk22/gleb4uk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![clickhouse-color](https://github.com/user-attachments/assets/c85965c5-5a99-4e92-82c7-95a3421076f3)
