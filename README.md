@@ -10,7 +10,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a> 
   <a href="https://www.clickhouse.com" target="_blank" rel="noreferrer"> 
-    <img src="https://storage-us-gcs.bfldr.com/4hbjk772z2kbxgnrtgt588s/v/1197417059/original/Badge_Yellow_300dpi_FNL.png?Expires=1728394304&KeyName=gcs-bfldr-prod&Signature=EX2Ex7g27CyrqZGwJn8lFRTNmjg=" alt="clickhouse" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" alt="clickhouse" width="40" height="40"/> 
   </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
